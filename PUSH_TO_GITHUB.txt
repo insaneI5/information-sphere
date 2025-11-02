@@ -1,0 +1,46 @@
+=========================================
+  快速推送到GitHub - v2.0.0
+=========================================
+
+方法1：GitHub Desktop（推荐）
+---------------------------
+1. 打开 GitHub Desktop
+2. 选择 information-sphere-system 仓库
+3. 填写提交信息：Release v2.0.0: Information Particle System
+4. 点击 "Commit to main"
+5. 点击 "Push origin"
+
+方法2：Git Bash命令
+---------------------------
+在此目录右键 → Git Bash Here，然后执行：
+
+git add .
+git commit -m "Release v2.0.0: Information Particle System"
+git push origin main
+
+方法3：VS Code
+---------------------------
+1. 用VS Code打开此文件夹
+2. 点击左侧源代码管理图标
+3. 点击 + 暂存所有更改
+4. 输入提交信息后提交
+5. 点击推送
+
+=========================================
+
+更新内容：
+- v2.0.0 完整版本
+- 12维信息粒子系统
+- SIF质量评估
+- 专业文档（无AI语言）
+- 6项实验验证
+- 评分：87.5/100 (B+)
+
+仓库地址：
+https://github.com/changsheng137/information-sphere-system
+
+详细步骤见：
+D:\stsna\GitHub更新步骤.md
+
+=========================================
+
